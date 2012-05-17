@@ -6,5 +6,3 @@
 301 [55]x2 94
 37 [21]x3 [42]x2
 244 301 [55]x2 94 25 42 37 [21]x3 [42]x2
-
-/apache-tomcat-7.0.27/webapps/test/www-data/jspwiki/
