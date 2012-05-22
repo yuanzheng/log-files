@@ -1,0 +1,8 @@
+zMessageReader.SetTransaction("addview");
+zMessageReader.SetTransaction("modifyview");
+zMessageReader.SetTransaction("removeview");
+zMessageReader.SetTransaction("addpersona");
+zMessageReader.SetTransaction("modifypersona");
+zMessageReader.SetTransaction("removepersona");
+zMessageReader.SetTransaction("bindpersona");
+zMessageReader.SetTransaction("unbindpersona");

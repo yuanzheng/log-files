@@ -1,0 +1,8 @@
+addview
+modifyview
+removeview
+addpersona
+modifypersona
+removepersona
+bindpersona
+unbindpersona
